@@ -1,0 +1,28 @@
+{
+  "name": "activity-sia",
+  "version": "1.0.0",
+  "description": "Classroom activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/markbejar1/activity.sia#readme",
+  "bugs": {
+    "url": "https://github.com/markbejar1/activity.sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markbejar1/activity.sia.git"
+  },
+  "license": "ISC",
+  "author": "Bejar, Mark",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
